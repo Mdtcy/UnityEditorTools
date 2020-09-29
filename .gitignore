@@ -1,4 +1,7 @@
 *.csproj.*
+Assets/Plugins/
+Sirenix.OdinInspector.ConpatibilityLayer.csproj
+Sirenix.OdinInspector.ConpatibilityLayer.Editor.csproj
 Library/
 Temp/
 .idea/
@@ -6,3 +9,6 @@ JetBrains
 JetBrains.*
 obj/
 Recordings/
+Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj
+Sirenix.OdinInspector.CompatibilityLayer.csproj
+Assets/Plugins.meta
