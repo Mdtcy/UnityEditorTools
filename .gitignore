@@ -1,0 +1,8 @@
+*.csproj.*
+Library/
+Temp/
+.idea/
+JetBrains
+JetBrains.*
+obj/
+Recordings/
